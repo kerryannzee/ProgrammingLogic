@@ -44,17 +44,17 @@
       while (k <= 1000)
       {
       Console.WriteLine(k);
-      k += 10; // Increment by 10
+      k += 10; 
       } 
       
   //Problem 6
-      for (int l = 1; l <= 10; l++) // Outer loop controls the rows
+      for (int l = 1; l <= 10; l++) 
       {
-      for (int m = 1; m <= l; m++) // Inner loop controls the stars per row
+      for (int m = 1; m <= l; m++) 
       {
       Console.Write("*");
       }
-      Console.WriteLine(); // Move to the next line after each row
+      Console.WriteLine(); 
       }
     }
   }
