@@ -54,7 +54,8 @@
       {
       Console.Write("*");
       }
-      Console.WriteLine(); 
+      Console.WriteLine(); // Move to the next line after each row
       }
     }
   }
+}
