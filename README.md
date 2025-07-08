@@ -23,7 +23,7 @@ C# console labs
 <ul> My interests include:
     <li>Reading</li>
     <li>Random drives</li>
-    <li>Music/li>
+    <li>Music</li>
     <li>Puzzles</li>
     <li>Crosswords</li>
 </ul>
