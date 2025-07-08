@@ -1,2 +1,31 @@
 # ProgrammingLogic
 C# console labs
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Lab 1 - My First Web Page</title>
+
+    <meta charset="UTF-8">
+
+<meta name="author" content="Kerry Ashburn">
+
+<meta name="description" content="This is a sample page created for Lab 1.">
+
+<h1> Kerry Ashburn -- This is the first lab for IT-2310 Web Programming </h1>
+
+<p>This will serve as my first webpage in about twenty years. When I was in middle school in the late nineties/early aughts, creating webpages was one of my<br>
+     favorite things to do. I created many sites on AngelFire. Unfortunately, they have all been disabled. </p>
+
+<p>MySpace became a thing when I was in high school and I could focus on editing my MySpace page with HTML code. In addition to my MySpcae page, I could also use HTML <br>
+    to make my LiveJournal profile more exciting. Kids these days have no idea how easy they have it, haha. </p>
+
+<ul> My interests include:
+    <li>Reading</li>
+    <li>Random drives</li>
+    <li>Music/li>
+    <li>Puzzles</li>
+    <li>Crosswords</li>
+</ul>
+
+<a href='https://www.w3schools.com/'>W3 Schools</a> is a site I frequently use. 
